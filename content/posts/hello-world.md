@@ -1,7 +1,7 @@
 +++
 title = 'Hello World'
 date = 2023-11-15T21:19:15Z
-tags = ['tag1','tag2']
+tags = ['tag1','tag2', 'longertag', 'tag4']
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor arcu eget efficitur placerat. Morbi fermentum tortor eget odio ultricies, vitae cursus mi semper. Fusce sed felis elit. Nulla maximus nulla ut sem gravida elementum. Aenean dapibus malesuada ex, vel dictum velit fringilla sed. Aenean eget hendrerit purus, ac venenatis magna. Integer euismod ut leo congue condimentum. In hac habitasse platea dictumst. Suspendisse porta, turpis in hendrerit porttitor, magna arcu maximus odio, sit amet euismod quam enim in quam. Quisque tempus quam risus, eget vestibulum velit dapibus vitae. Maecenas eros leo, aliquam quis facilisis id, sollicitudin vitae urna. Duis porta pellentesque lorem, vitae placerat sapien maximus vel. Donec quis purus eget est aliquet aliquam.
@@ -21,8 +21,29 @@ Nulla vehicula mattis tortor a hendrerit. Aliquam orci sapien, varius id libero 
 
 
 ```python
-def add_numbers(num1, num2):
-    return num1 + num2
+def large_func():
+    x = 6
+
+    def func_that_uses_x():
+        print(x)
+
+    def func_that_modifies_x():
+        nonlocal x  # python3 only
+        x += 1
+
+    func_that_uses_x()
+    func_that_modifies_x()
 ```
 
-{{< callout emoji="⚡️" text="I guess this works" >}}
+A fluttering of text
+
+{{< callout emoji="⚡" text="I guess this works" >}}
+
+> Something memorable  
+> — Benjamin Franklin
+
+text before figure
+
+{{< figure src="image1.png" title="The caption The caption The caption The caption The caption The caption The caption The caption The caption The caption The caption The caption The caption The caption The caption The caption The caption The caption " >}}
+
+More text

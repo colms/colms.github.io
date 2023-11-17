@@ -22,3 +22,9 @@ pygmentscodefencesguesssyntax = true
 name = "GitHub"
 icon = "github"
 url = "https://github.com/colms"
+
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "https://github.com/colms"
+
