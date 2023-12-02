@@ -2,6 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Colm S'
 theme = 'archie'
+googleAnalytics = "G-YC0GT79X8J"
 
 paginate=5 # articles per page
 
@@ -15,7 +16,6 @@ pygmentscodefencesguesssyntax = true
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
 	subtitle = ""
 	favicon = "favicon.png"
-	googleAnalytics = "G-YC0GT79X8J"
 
 # Social Tags
 
