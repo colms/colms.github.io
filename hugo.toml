@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Colm S'
+title = 'The Rushed Robin'
 theme = 'archie'
 googleAnalytics = "G-YC0GT79X8J"
 
@@ -15,7 +15,7 @@ pygmentscodefencesguesssyntax = true
 	mode="light" # color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
 	subtitle = ""
-	favicon = "favicon.png"
+	favicon = "/favicon.png"
 
 # Social Tags
 
