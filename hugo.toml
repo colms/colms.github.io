@@ -4,7 +4,7 @@ title = 'The Rushed Robin'
 theme = 'archie'
 googleAnalytics = "G-YC0GT79X8J"
 
-paginate=5 # articles per page
+paginate=20  # articles per page
 
 # Code Highlight
 pygmentsstyle = "colorful"
@@ -12,8 +12,8 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 [params]
-	mode="light" # color-mode → light,dark,toggle or auto
-	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+	mode="light"  # color-mode → light,dark,toggle or auto
+	useCDN=false  # don't use CDNs for fonts and icons, instead serve them locally.
 	subtitle = ""
 	favicon = "/favicon.png"
 
