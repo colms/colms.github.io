@@ -35,6 +35,11 @@ def large_func():
     func_that_modifies_x()
 ```
 
+A list:
+- item1
+- item2
+- item3
+
 A fluttering of text
 
 {{< callout emoji="⚡" text="I guess this works" >}}
