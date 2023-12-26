@@ -2,6 +2,7 @@
 title: "About"
 date: 2023-12-22T22:15:28Z
 draft: false
+coverImage: false
 ---
 
 Policy without politics.
