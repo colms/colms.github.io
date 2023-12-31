@@ -2,7 +2,6 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'The Rushed Robin'
 theme = 'archie'
-googleAnalytics = "G-YC0GT79X8J"
 
 paginate=20  # articles per page
 
