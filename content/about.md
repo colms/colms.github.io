@@ -17,4 +17,4 @@ The Rushed Robin is icon is owned by us.
 >With hurried, few, express reports  
 >When March is scarcely on.
 
-{{< figure src="/images/robin.svg" >}}
+{{< figure src="/images/robin.png" >}}
