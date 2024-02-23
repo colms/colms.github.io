@@ -9,8 +9,6 @@ The Republic of Ireland is a parliamentary, representative democracy. This means
 
 The article defines the number of people a TD can represent to between 20,000 and 30,000. By taking the population at the time of the last census, and dividing it by 20,000 and 30,000, we get the constitutional range of TDs Ireland can have.
 
-{{< figure src="Constituency Boundaries average population per TD before.png" >}}
-
 Because the population changes over time, the number of TDs change too. For example, the 2016 census reported a national population of 4,761,865 people. This meant the range of TDs in the Dáil had to be between 159 (4,761,865/30,000) and 238 (4,761,865/20,000). In 2017, the commission in charge of deciding the number of TDs arrived at the number of 160 TDs. This put it just within the constitutional range.
 
 When the 2022 census came out with an increased population of 5,149,139, with only 160 TDs, the 30,000 person limit per TD threshold was exceeded.
