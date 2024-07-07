@@ -8,7 +8,7 @@ A person goes to a polling station, finds a booth, writes their voting preferenc
 
 {{< figure src="filled_ballot.png" >}}
 
-A tally is an unofficial count of votes conducted by party members, candidates, and other volunteers. A tally gives early results before the official count is done and shows detailed information on voting patterns, such as turnout and votes in specific areas.
+A tally is an unofficial count of votes conducted by party members, candidates, and other volunteers. A tally gives early results before the official count is done and shows detailed information on voting patterns, such as turnout and votes in specific areas, details that will be lost in the final official count.
 
 There are many people and roles involved in a tally but I'll focus on just a few; the marker, the runner, the auditor, the caller, the aggregator and the coordinator.
 
@@ -73,6 +73,8 @@ There will usually be aggregators from each party for each area. Each will be in
 ## Coordinator
 
 The person responsible for making sure that the spreadsheet was prepared ahead of time, and responsible for almost everything else during the tally, is *the coordinator*. The coordinator is at the heart of the entire tally. There's usually one for each party, ideally working cross-party to standardize tally sheets and to ensure everything runs smoothly. The coordinator needs to make sure everyone knows where they should be, what they're going to be doing, how to do it, and has everything they need to do it. They may also be responsible for setting up communication so that volunteers can get in contact if anything is wrong, and setting up wider communication channels with other coordinators to work at a national level.
+
+{{< figure src="local.png" >}}
 
 ## Future
 
